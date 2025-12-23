@@ -19,6 +19,8 @@ The system aims to improve inventory tracking, reduce errors, and enhance user e
   - Product Lookup using Binary Search
   - Product Purchase & Discount Handling
   - Queue Management for Discount Eligibility
+## Project Report
+You can view the full project report [here](INVENTORY_MANAGEMENT_SYSTEM.pdf).
 
 ## Installation & Usage
 1. **Clone the repository**
