@@ -23,4 +23,4 @@ The system aims to improve inventory tracking, reduce errors, and enhance user e
 ## Installation & Usage
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YourUsername/InventoryManagementSystem.git
+   git clone https://github.com/MehadiWritesCode/Inventory-Management-System
